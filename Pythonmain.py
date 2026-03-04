@@ -1,0 +1,3 @@
+Smiltuden()
+Cena()
+Galam()
